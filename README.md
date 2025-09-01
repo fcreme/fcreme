@@ -29,6 +29,7 @@ If you enjoy my work and want to support my journey, I’d really appreciate it!
   <img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/liquid-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white"/>

@@ -1,13 +1,7 @@
 <p align="center">
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=fcreme&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=fcreme&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=fcreme&theme=summer">
-</picture>
-
+  <img src="./assets/pixel-stats-light.png#gh-light-mode-only" alt="Felipe's CRT GitHub Stats (light)">
+  <img src="./assets/pixel-stats-dark.png#gh-dark-mode-only"  alt="Felipe's CRT GitHub Stats (dark)">
 </p>
-
-
 ## Introduction
 
 Hey, my name is Felipe. I'm a front-end developer passionate about building high-performance web experiences.  

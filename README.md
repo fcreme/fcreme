@@ -2,7 +2,7 @@
   <img src="./assets/pixel-stats-light.png#gh-light-mode-only" alt="Felipe's CRT GitHub Stats (light)">
   <img src="./assets/pixel-stats-dark.png#gh-dark-mode-only"  alt="Felipe's CRT GitHub Stats (dark)">
 </p>
-## Introduction
+
 
 Hey, my name is Felipe. I'm a front-end developer passionate about building high-performance web experiences.  
 I started my journey creating websites and e-commerce projects, and over the years I’ve expanded into frameworks like **React** and **Angular**, combining strong UI/UX design with clean code.  

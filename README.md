@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./assets/pixel-stats-light.png#gh-light-mode-only" alt="Felipe's CRT GitHub Stats (light)">
-  <img src="./assets/pixel-stats-dark.png#gh-dark-mode-only"  alt="Felipe's CRT GitHub Stats (dark)">
-</p>
+
 
 
 Hey, my name is Felipe. I'm a front-end developer passionate about building high-performance web experiences.  

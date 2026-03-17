@@ -89,6 +89,7 @@ If you enjoy my work and want to support my journey, I’d really appreciate it!
   6C37?style=for-the-badge&logo=postman&logoColor=white"/></a>
     <a href="https://www.linux.org/" title="Linux"><img
   src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+    <a href="https://neovim.io/" title="Neovim"><img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/></a>
     <a href="https://vercel.com/" title="Vercel"><img
   src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     <a href="https://www.figma.com/" title="Figma"><img

@@ -1,6 +1,6 @@
 
 
-Hey, my name is Felipe. I'm a front-end developer passionate about building high-performance web experiences.
+Hey, my name is Felipe. I'm a full-stack developer passionate about building high-performance web experiences.
 I started my journey creating websites and e-commerce projects, and over the years I've expanded into frameworks like **React** and **Angular**, combining strong UI/UX design with clean code.
 
 Currently, I'm focused on crafting modern web apps, training platforms, and digital solutions with animations, SEO optimization, and pixel-perfect design.

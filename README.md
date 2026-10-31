@@ -1,10 +1,10 @@
 <div align="center">
 
-<br>
-
 ### Expostulation and Reply
 
-<br>
+<table>
+<tr>
+<td valign="top">
 
 *"Why, William, on that old grey stone,*<br>
 *Thus for the length of half a day,*<br>
@@ -26,6 +26,9 @@
 *To me my good friend Matthew spake,*<br>
 *And thus I made reply:*
 
+</td>
+<td valign="top">
+
 *"The eye — it cannot choose but see;*<br>
 *We cannot bid the ear be still;*<br>
 *Our bodies feel, where'er they be,*<br>
@@ -46,10 +49,10 @@
 *I sit upon this old grey stone,*<br>
 *And dream my time away."*
 
-<br>
+</td>
+</tr>
+</table>
 
 <sub>— William Wordsworth, 1798</sub>
-
-<br>
 
 </div>

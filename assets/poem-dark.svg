@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="620" viewBox="0 0 920 620">
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="610" viewBox="0 0 920 610">
 <style>
 text { font-family: Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif; fill: #e6edf3; }
 .t { font-size: 22px; letter-spacing: 0.5px; }
@@ -7,39 +7,37 @@ text { font-family: Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New 
 .c { font-size: 13px; fill: #8b949e; letter-spacing: 1px; }
 </style>
 <text x="460.0" y="44" text-anchor="middle" class="t">Expostulation and Reply</text>
-<text x="105" y="66" class="k">EXPOSTULATION</text>
-<text x="525" y="66" class="k">REPLY</text>
-<text x="105" y="96" class="v">“Why, William, on that old grey stone,</text>
-<text x="105" y="121" class="v">Thus for the length of half a day,</text>
-<text x="105" y="146" class="v">Why, William, sit you thus alone,</text>
-<text x="105" y="171" class="v">And dream your time away?</text>
-<text x="105" y="214" class="v">“Where are your books? — that light bequeathed</text>
-<text x="105" y="239" class="v">To beings else forlorn and blind!</text>
-<text x="105" y="264" class="v">Up! up! and drink the spirit breathed</text>
-<text x="105" y="289" class="v">From dead men to their kind.</text>
-<text x="105" y="332" class="v">“You look round on your mother earth,</text>
-<text x="105" y="357" class="v">As if she for no purpose bore you;</text>
-<text x="105" y="382" class="v">As if you were her first-born birth,</text>
-<text x="105" y="407" class="v">And none had lived before you!”</text>
-<text x="105" y="450" class="v">One morning thus, by Esthwaite lake,</text>
-<text x="105" y="475" class="v">When life was sweet, I knew not why,</text>
-<text x="105" y="500" class="v">To me my good friend Matthew spake,</text>
-<text x="105" y="525" class="v">And thus I made reply:</text>
-<text x="525" y="96" class="v">“The eye — it cannot choose but see;</text>
-<text x="525" y="121" class="v">We cannot bid the ear be still;</text>
-<text x="525" y="146" class="v">Our bodies feel, where’er they be,</text>
-<text x="525" y="171" class="v">Against or with our will.</text>
-<text x="525" y="214" class="v">“Nor less I deem that there are powers</text>
-<text x="525" y="239" class="v">Which of themselves our minds impress;</text>
-<text x="525" y="264" class="v">That we can feed this mind of ours</text>
-<text x="525" y="289" class="v">In a wise passiveness.</text>
-<text x="525" y="332" class="v">“Think you, ’mid all this mighty sum</text>
-<text x="525" y="357" class="v">Of things for ever speaking,</text>
-<text x="525" y="382" class="v">That nothing of itself will come,</text>
-<text x="525" y="407" class="v">But we must still be seeking?</text>
-<text x="525" y="450" class="v">“— Then ask not wherefore, here, alone,</text>
-<text x="525" y="475" class="v">Conversing as I may,</text>
-<text x="525" y="500" class="v">I sit upon this old grey stone,</text>
-<text x="525" y="525" class="v">And dream my time away.”</text>
-<text x="460.0" y="596" text-anchor="middle" class="c">— William Wordsworth, 1798</text>
+<text x="105" y="86" class="v">“Why, William, on that old grey stone,</text>
+<text x="105" y="111" class="v">Thus for the length of half a day,</text>
+<text x="105" y="136" class="v">Why, William, sit you thus alone,</text>
+<text x="105" y="161" class="v">And dream your time away?</text>
+<text x="105" y="204" class="v">“Where are your books? — that light bequeathed</text>
+<text x="105" y="229" class="v">To beings else forlorn and blind!</text>
+<text x="105" y="254" class="v">Up! up! and drink the spirit breathed</text>
+<text x="105" y="279" class="v">From dead men to their kind.</text>
+<text x="105" y="322" class="v">“You look round on your mother earth,</text>
+<text x="105" y="347" class="v">As if she for no purpose bore you;</text>
+<text x="105" y="372" class="v">As if you were her first-born birth,</text>
+<text x="105" y="397" class="v">And none had lived before you!”</text>
+<text x="105" y="440" class="v">One morning thus, by Esthwaite lake,</text>
+<text x="105" y="465" class="v">When life was sweet, I knew not why,</text>
+<text x="105" y="490" class="v">To me my good friend Matthew spake,</text>
+<text x="105" y="515" class="v">And thus I made reply:</text>
+<text x="525" y="86" class="v">“The eye — it cannot choose but see;</text>
+<text x="525" y="111" class="v">We cannot bid the ear be still;</text>
+<text x="525" y="136" class="v">Our bodies feel, where’er they be,</text>
+<text x="525" y="161" class="v">Against or with our will.</text>
+<text x="525" y="204" class="v">“Nor less I deem that there are powers</text>
+<text x="525" y="229" class="v">Which of themselves our minds impress;</text>
+<text x="525" y="254" class="v">That we can feed this mind of ours</text>
+<text x="525" y="279" class="v">In a wise passiveness.</text>
+<text x="525" y="322" class="v">“Think you, ’mid all this mighty sum</text>
+<text x="525" y="347" class="v">Of things for ever speaking,</text>
+<text x="525" y="372" class="v">That nothing of itself will come,</text>
+<text x="525" y="397" class="v">But we must still be seeking?</text>
+<text x="525" y="440" class="v">“— Then ask not wherefore, here, alone,</text>
+<text x="525" y="465" class="v">Conversing as I may,</text>
+<text x="525" y="490" class="v">I sit upon this old grey stone,</text>
+<text x="525" y="515" class="v">And dream my time away.”</text>
+<text x="460.0" y="586" text-anchor="middle" class="c">— William Wordsworth, 1798</text>
 </svg>
